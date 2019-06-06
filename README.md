@@ -8,6 +8,7 @@ You can read the following tutorials for more information about how to build thi
 
 - [Angular 8 Data (Event & Property) Binding Tutorial: Build your First Angular App](https://www.techiediaries.com/angular-data-event-property-binding)
 
+![Angular 8 Example Calculator](https://www.diigo.com/file/image/bbccosoazobaoooccdzdrocqebd/Ngcalculator.jpg)
 
 ## Development server
 
